@@ -1,0 +1,2 @@
+ceshi测试 jenkinsshang上peizhi上配置
+gongxiang共享ku共享库
