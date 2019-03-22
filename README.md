@@ -1,3 +1,5 @@
+# jenkins的共享库
+
 ##  shared library仓库的文件结构
   主要有三个  src, vars   和   resource  
   
